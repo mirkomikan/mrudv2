@@ -4,7 +4,7 @@ MRU-D-v2-TimerNotifications
 MRU-Dv2 GLOBAL TIMER (Specs part 10)
 ------------------------------------
 NotificationManager  
-Timer
+Timer  
 alarmSound   
 
 DONE:
